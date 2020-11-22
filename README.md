@@ -8,4 +8,4 @@ float s;
 s=a+b;
 printf("%f",s);
 }
-建立个人项目
+
