@@ -1,5 +1,4 @@
 # wonderful1
-使用GitHub建立项目
 #include<stdio.h>
 int main()
 {
